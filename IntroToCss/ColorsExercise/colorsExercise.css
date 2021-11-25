@@ -1,0 +1,28 @@
+h1 {color: blue; background-color: red;}
+
+h2 {color: #275f27; background-color: orange;}
+
+h3 {color: #f35; background-color: yellow;}
+
+h4 {color: #00ff00ff;
+background-color: greenyellow;}
+
+h5 {color: #f009;
+background-color: blue;}
+
+h6 {color: rgb(121, 133, 114)
+; background-color: indigo;}
+
+p { color: rgba(119, 29, 13);background-color: violet;}
+
+#one {
+    color: hotpink;
+}
+
+#three {
+    background-color: peachpuff;
+}
+
+#one, #three {
+    border: 5px solid green;
+}
